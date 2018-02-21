@@ -84,11 +84,12 @@
 </template>
 
 <script>
+/* eslint-disable */
 export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Welcome to Your Vue.js App and i am chathu'
     }
   }
 }
